@@ -54,12 +54,11 @@ Watchlist-
 Other features - 
 
 32. Using RWebShare npm package.
-33. Custom Mouse - 2 divs that follow the mouse (with delay)
-34. Mui icons
-35. Seo + Code modularity and reusability.
-36. Hosted using netlify, netlify.toml file.
-37. Gradient footer - gradient animation
-38. Added toasts - react-toastify for every action.
+33. Mui icons
+34. Seo + Code modularity and reusability.
+35. Hosted using netlify file.
+36. Gradient footer - gradient animation
+37. Added toasts - react-toastify for every action.
 
 
 Add this project in your resume.
